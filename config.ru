@@ -239,7 +239,7 @@ pre {
 
 <section class='container'>
           <hgroup>
-            <h1>Deployed by Beresescu Lucian-Paul</h1>
+            <h1>Deployed by Maria Butunoi</h1>
           </hgroup>
 
 </section>
